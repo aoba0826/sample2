@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     @IBAction func buttonstart(_ sender: Any) {
     }
     
+    @IBAction func button(_ sender: Any) {
+    }
     @IBAction func buttonstop(_ sender: Any) {
     }
 }
