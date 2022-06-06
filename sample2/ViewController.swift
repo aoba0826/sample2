@@ -20,6 +20,8 @@ class ViewController: UIViewController {
     @IBAction func buttonstart(_ sender: Any) {
     }
     
+    @IBAction func button6(_ sender: Any) {
+    }
     @IBAction func button4(_ sender: Any) {
     }
     @IBAction func button2(_ sender: Any) {
