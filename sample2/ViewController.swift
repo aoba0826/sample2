@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var labels: UILabel!
     @IBOutlet weak var label2: UILabel!
+    
+    @IBOutlet weak var label4: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
