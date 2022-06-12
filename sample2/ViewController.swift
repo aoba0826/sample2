@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var labels: UILabel!
     @IBOutlet weak var label2: UILabel!
     
+    @IBOutlet weak var labellan: UILabel!
     @IBOutlet weak var label4: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
