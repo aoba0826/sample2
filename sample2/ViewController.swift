@@ -35,5 +35,8 @@ class ViewController: UIViewController {
     }
     @IBAction func buttonstop(_ sender: Any) {
     }
+    
+    @IBAction func name(_ sender: Any) {
+    }
 }
 
